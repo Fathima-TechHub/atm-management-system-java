@@ -28,6 +28,25 @@ This project demonstrates core Object-Oriented Programming (OOP) concepts and ba
 - User Input Handling
 - Basic System Design
 
+ 📸 Screenshots
+
+🔐 Login Screen
+![Login Screen](login.png)
+
+💰 Deposit Function
+![Deposit Screen](deposit.png)
+
+💸 Withdraw Function
+![Withdraw Screen](withdraw.png)
+
+
+🧠 System Design
+
+UML Class Diagram
+![UML Diagram](uml.png)
+
+This diagram represents the structure of the system and relationships between classes.
+
 
 🎯 Purpose of the Project
 
